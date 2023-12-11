@@ -1,14 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import Home from './components/home/home';
+import Navbar from './components/navbar/navbar';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header"> 
-        <p>
-          Proyecto Connectapp
-        </p> 
-      </header>
+        <Navbar />
+        <Home />
     </div>
   );
 }
