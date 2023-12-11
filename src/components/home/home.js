@@ -12,11 +12,11 @@ function Home() {
         <img src={banner} />
         <div className='servicios'>
           <h1>Elige el servicio</h1>
-          <a href='registrarse'>
+          <a href='register'>
             <img src={register} />
           </a>
 
-          <a href='votar'>
+          <a href='vote'>
             <img src={votar} />
           </a>
 

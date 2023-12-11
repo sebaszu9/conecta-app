@@ -12,7 +12,7 @@ function Navbar(){
             <div>
                 <ul id='navbar'>
                     <li>
-                        <a href=''>
+                        <a href='/'>
                             Home
                         </a>
                     </li>
